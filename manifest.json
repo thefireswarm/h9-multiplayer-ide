@@ -1,0 +1,16 @@
+{
+  "name": "H9 Code Editor",
+  "short_name": "H9 IDE",
+  "description": "Multiplayer Offline Code Editor with Realtime CRDTs and Monaco Editor",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1e1e1e",
+  "theme_color": "#1e1e1e",
+  "icons": [
+    {
+      "src": "vendor/vs/base/browser/ui/codicons/codicon/codicon.ttf",
+      "sizes": "192x192",
+      "type": "font/ttf"
+    }
+  ]
+}
